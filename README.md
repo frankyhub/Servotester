@@ -13,7 +13,7 @@
 # Servotester
 SG90 Servo Tester
 
-<img src="pic/ServotesterF" width="500"> 
+<img src="pic/ServotesterF.png" width="500"> 
 <br> <br>
 
 <div style="position:absolute; left:2cm; ">   
